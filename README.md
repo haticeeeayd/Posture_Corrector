@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Posture_Corrector
-=======
+======================
 # 🧍‍♂️ Posture Corrector - Posture and Drowsiness Detection
 
 This project detects **bad posture** and **drowsiness** using **computer vision** and **machine learning techniques**. By leveraging **MediaPipe, OpenCV, and dlib**, the system analyzes human body landmarks and eye aspect ratio (EAR) to determine whether a person maintains good posture and is awake.
